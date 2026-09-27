@@ -78,6 +78,12 @@ if (!$result) {
                 </a>
             </p>
 
+            <p>
+                <a href="rsvp.php?event_id=<?= $event['event_id'] ?>">
+                     RSVP to Event
+                </a>
+            </p>
+
         </article>
 
         <hr>
